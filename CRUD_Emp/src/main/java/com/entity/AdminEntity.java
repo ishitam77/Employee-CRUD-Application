@@ -63,7 +63,12 @@ public class AdminEntity {
 	public void setPassword(String password) {
 		this.password = password;
 	}
-	
+	public Long getVersion() {
+		return version;
+	}
+	public void setVersion(Long version) {
+		this.version = version;
+	}
 	
 	@Override
 	public String toString() {
