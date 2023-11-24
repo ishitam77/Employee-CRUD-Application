@@ -14,9 +14,10 @@ Developed a web-based application using Bootstrap, Spring MVC, JSP, and Hibernat
 2) Right Click on your project
 3) Click Run as Run on Server
 4) Select your Local Host and click Finish
-5) Your project will automatically opens in browser (http://localhost:7750/CRUD_Emp/)
+5) Your project home page will automatically opens in browser (http://localhost:7750/CRUD_Emp/)
 6) Now, perform CRUD Operations
 7) Signup as a Admin and add Employee details
 8) View, edit and delete Employee Details
-9) Also view given Comments  
-10) Verify the Changes in your MYSQL Workbench
+9) Also view given Comments
+10) User can able to edit and delete their profile
+11) Verify the Changes in your MYSQL Workbench
